@@ -1,2 +1,3 @@
-# chart-batang
-Graf Chart Batang 
+# Chat Batang
+
+Contoh Graf Chart Batang JS 
